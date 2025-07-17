@@ -23,11 +23,3 @@ Requires .NET 8 SDK.
 ❗ Known Limitations
 - No persistence across runs
 - No authentication or concurrency protection
-
-### 🧪 Optional: Add `InfoneticaWorkflowEngine.csproj`
-
-
-You can create the project with:
-```bash
-dotnet new web -n InfoneticaWorkflowEngine
-```
